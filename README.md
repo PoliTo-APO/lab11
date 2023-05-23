@@ -4,7 +4,7 @@ In questo laboratorio si svolgono esercizi su algoritmi e strutture dati.
 
 ## Esercizio 1
 Scrivere una funzione ricorsiva che crei un [quadrato magico](https://it.wikipedia.org/wiki/Quadrato_magico) di dimensioni specificate dal programmatore (*N x N*, *N >= 3*).
-Un quadrato magico di dimensione *N x N* è un quadrato in cui sono disposti tutti i numeri da *1* a *N^2-1*, senza ripetizioni.
+Un quadrato magico di dimensione *N x N* è un quadrato in cui sono disposti tutti i numeri da *1* a *N^2*, senza ripetizioni.
 La somma dei numeri su ogni riga colonna o diagonale deve essere la stessa.
 La ricorsione deve fermarsi quando si trova la prima configurazione corretta.
 
